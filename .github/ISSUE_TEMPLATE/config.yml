@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Project Board
+    url: https://github.com/orgs/nextavllc/projects/33
+    about: View current sprint and backlog on the project board
+  - name: Engineering Documentation
+    url: https://nextavllc.github.io/engineering-agents/
+    about: Technical documentation, architecture, and standards
